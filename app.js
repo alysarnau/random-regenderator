@@ -29,6 +29,14 @@ const genders = [ 'Friends to lovers',
     `Christmas-themed Lifetime Movie`,
     `Fish out of Water`,
     `The Turtle Upon Whom the World Is Built`,
+    `The Male Gaze (derogatory)`,
+    `Carefully Syncronized RGB Computer Lighting Setup`,
+    `Kitt Fisto`,
+    `The Star Wars Prequels (derogatory)`,
+    `The Star Wars Prequels (affectionate)`,
+    `The OG Star Trek Pon Farr Episode`,
+    `Frog (Singular)`,
+    `Frogs (Plural, Friends)`,
 ]
 
 function selectGender(genders) {
