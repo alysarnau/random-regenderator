@@ -1,10 +1,11 @@
 body {
     max-width: 500px;
     margin: 40px auto;
+    font-family: 'Comic Sans MS', sans-serif;
 }
 
 #robot {
-    border: 5px solid black;
+    border: 5px solid #FB5607;
     background-color: #3A86FF;
     height: 300px;
     display: flex;
@@ -33,4 +34,55 @@ body {
     margin: 10px auto;
     font-size: 26px;
     border-radius: 15px;
+    font-family: 'Comic Sans MS';
+    color: #FF006E;
+}
+
+#explainer {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Papyrus', 'Comic Sans MS', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 3rem;
+    letter-spacing: 0.15rem;
+    text-transform: uppercase;
+    color: #000000;
+    text-shadow: -4px 4px #ef3550,
+                -8px 8px #f48fb1,
+                -12px 12px #7e57c2,
+                -16px 16px #2196f3,
+                -20px 20px #26c6da,
+                -24px 24px #43a047,
+                -28px 28px #eeff41,
+                -32px 32px #f9a825,
+                -36px 36px #ff5722;
+}
+
+p {
+    font-size: 20px;
+}
+
+span:hover {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 3rem;
+    letter-spacing: 0.15rem;
+    text-transform: uppercase;
+    color: #000000;
+    text-shadow: -4px 4px #ef3550,
+    -8px 8px #f48fb1,
+    -12px 12px #7e57c2,
+    -16px 16px #2196f3,
+    -20px 20px #26c6da,
+    -24px 24px #43a047,
+    -28px 28px #eeff41,
+    -32px 32px #f9a825,
+    -36px 36px #ff5722;
 }
