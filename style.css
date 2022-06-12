@@ -87,3 +87,9 @@ span:hover {
     -32px 32px #f9a825,
     -36px 36px #ff5722;
 }
+
+@media screen and (max-width: 600px) {
+    #gender-display {
+        width: 300px; 
+    }
+}

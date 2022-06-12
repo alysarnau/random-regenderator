@@ -37,6 +37,7 @@ const genders = [ 'Friends to lovers',
     `The OG Star Trek Pon Farr Episode`,
     `Frog (Singular)`,
     `Frogs (Plural, Friends)`,
+    `Soldier`,
 ]
 
 function selectGender(genders) {
